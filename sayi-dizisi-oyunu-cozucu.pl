@@ -1,13 +1,12 @@
 /*
 
-Sayý Dizisi Tahmini Oyunu
+Sayï¿½ Dizisi Tahmini Oyunu
 Yonetici : Insan
 Oyuncu : Bilgisayar
 
 Ahmet Tolga Okur
-05-09-23
 
-Programi run. komutu ile calistirin ve bilgisayarýn tahmininin ne kadar dogru oldugunu [IcermeSayisi,EslesmeSayisi]. seklinde girin.
+Programi run. komutu ile calistirin ve bilgisayarï¿½n tahmininin ne kadar dogru oldugunu [IcermeSayisi,EslesmeSayisi]. seklinde girin.
 SWI-Prolog ile test edilmistir.
 
 */
@@ -58,14 +57,14 @@ initialize.
 
 /*
 Bilgisayar tarafindan yeni tahmin olusturulmasi kesisim listesindeki ilk eleman alinarak yapilir.
-Bu fonksiyon degistirilerek random sayi secmesi ya da heuristic kullanýmý saglanabilir.
+Bu fonksiyon degistirilerek random sayi secmesi ya da heuristic kullanï¿½mï¿½ saglanabilir.
 */
 tahmin(R):-
 	kesisim(R),!.
 
 /*
 dlist icerisindeki tum sayilarin permutasyonu.
-Bu fonksiyon olasý tum durumlari yaratir. Bos kumeler ve tum N elemanli listeler buna dahildir.
+Bu fonksiyon olasï¿½ tum durumlari yaratir. Bos kumeler ve tum N elemanli listeler buna dahildir.
 */
 permutation(L) :-
 	dlist(X),
