@@ -1,12 +1,12 @@
 /*
 
-Say� Dizisi Tahmini Oyunu
+SayıDizisi Tahmini Oyunu
 Yonetici : Insan
 Oyuncu : Bilgisayar
 
 Ahmet Tolga Okur
 
-Programi run. komutu ile calistirin ve bilgisayar�n tahmininin ne kadar dogru oldugunu [IcermeSayisi,EslesmeSayisi]. seklinde girin.
+Programi run. komutu ile calistirin ve bilgisayarın tahmininin ne kadar dogru oldugunu [IcermeSayisi,EslesmeSayisi]. seklinde girin.
 SWI-Prolog ile test edilmistir.
 
 */
@@ -64,7 +64,7 @@ tahmin(R):-
 
 /*
 dlist icerisindeki tum sayilarin permutasyonu.
-Bu fonksiyon olas� tum durumlari yaratir. Bos kumeler ve tum N elemanli listeler buna dahildir.
+Bu fonksiyon olası tum durumlari yaratir. Bos kumeler ve tum N elemanli listeler buna dahildir.
 */
 permutation(L) :-
 	dlist(X),
