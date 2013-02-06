@@ -1,10 +1,9 @@
 /*
 
-Sayý Dizisi Tahmini Oyunu
-Oyuncu : Ýnsan
+Sayi Dizisi Tahmini Oyunu
+Oyuncu : Insan
 
-Ahmet Tolga Okur
-05-09-23
+Tolga Okur
 
 Programi run. komutu ile calistirin ve tahmininizi [X,Y,Z,T]. seklinde girin.
 SWI-Prolog ile test edilmistir.
@@ -15,7 +14,7 @@ clear :- format('~c~s~c~s',[0x1b,"[H",0x1b,"[2J"]).
 
 :- dynamic
         cozum/1, % Bilgisayar tarafindan uretilen random dizi
-        sayi/1. % Kullanýcýnýn her adimda girdigi deger
+        sayi/1. % Kullanicinin her adimda girdigi deger
 
 /* ********************** OYUN ************************* */
 run:-
