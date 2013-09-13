@@ -25,7 +25,7 @@ Oyunun Kuralları
 
 Oyunun Temeli
 -------------
-Uzunca bir arama yapmış olsam da oyunun kaynağını ve tam ismini bilmiyorum. Oyun, lisede arkadaşlar arasında oynadığımız bir oyundu.
+Oyunun gerçek ismi Mastermind. Oyun, lisede arkadaşlar arasında oynadığımız bir oyundu.
 Sayılar yerine renkler kullanılarak oynanan çok benzer bir oyuna şuradan ulaşılabilir : http://www.gamesforthebrain.com/game/guesscolors/ . Renk tahmini oyununun bu oyundan farkı, 9 adet sayı yerine 6 renk kullanılıyor olması ve renklerin tekrar edebiliyor olmasıdır.
 
 Geliştirilen Programlar Hakkında
