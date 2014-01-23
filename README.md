@@ -1,4 +1,4 @@
-#SayiTahminOyunu 
+#Sayi Tahmin Oyunu - Mastermind
 
 Sayı dizisi tahmini oyunu, bir oyun yöneticisi ve bir adet de oyuncudan oluşan, yöneticinin belirlediği sayı dizisine oyuncunun ulaşmaya çalıştığı basit bir düşünme oyundur.
 
